@@ -39,6 +39,4 @@ project-folder/
 - CSS
 - JavaScript
 
-## 📌 Author
 
-Made for a Mobile App Hackathon
